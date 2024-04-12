@@ -1,0 +1,6 @@
+.DS_Store
+
+# Build docs
+docs/build/
+
+__pycache__
